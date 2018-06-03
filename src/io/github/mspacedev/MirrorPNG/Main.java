@@ -43,6 +43,6 @@ public class Main {
             imageHandler.mirrorImage(s);
         }
 
-        // JOptionPane.showMessageDialog(null, "Program finished running!");
+        JOptionPane.showMessageDialog(null, "Program finished running!");
     }
 }
